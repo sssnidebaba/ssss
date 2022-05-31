@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+/*搜索按钮*/
+#search_button{
+	height:40px;
+	width:8%;
+	cursor:pointer;
+	font-size:18px;
+	margin-left:-20;
+	border:solid 1px #FFCC33;
+	background-color:#FF9900;
+	color:rgb(255, 11, 11);
+}
+#search_button:hover{
+	background-color:#FFCC33;
+}
+#search_button:active{
+	background-color:#FFCC33;
+}

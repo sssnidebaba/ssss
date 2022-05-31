@@ -1,0 +1,62 @@
+@charset "utf-8";
+.good {
+	text-align:center;
+	border:solid 2px #000;
+	border-bottom:0px;
+}
+.simpleul{
+	list-style-type:none;
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:10px;
+	font-size:20px;
+	color:#FF6600
+}
+.button{
+	width:100px;
+	margin-left:48px;
+	margin-top:62px;
+	text-decoration: none;
+	background: #ff523b;
+	padding: 10px;
+	border-radius: 5px;
+	color:white;
+}
+.button:color{
+	background: #563434;
+}
+textarea{
+	padding: 0px;
+    width: 100%;
+	resize:none;
+}
+.evaluate{
+	height: 50px;
+	margin-top: 5px;
+	padding-top: 1px;
+	text-indent: 10px;
+	padding-bottom: 10px;
+}
+.yangshi{
+	font-size:50px;
+	font-weight:bold;
+	line-height: 80px;
+	color:#000000;
+}
+
+.yangshi2{
+	color: #ff523b;
+	letter-spacing: 0.04em;
+	line-height:50px;
+	font-size:35px;
+}
+.yangshi3{
+	color: #000;
+	font-size:22px;
+	line-height:30px;
+}
+
+.lianjie a:link {color:white;}    /* 未被访问的链接 */
+.lianjie a:visited {color:white; } /* 已被访问的链接 */
+.lianjie a:hover {color:white; }   /* 鼠标指针移动到链接上 */
+.lianjie a:active {color:white;}  /* 正在被点击的链接 */

@@ -1,0 +1,48 @@
+@CHARSET "UTF-8";
+.zong {
+	width:"900";
+	border:"0" ;
+	cellpadding:"0px";
+	cellspace:"0px";
+	class:text-center;
+	align:center;
+}
+#biaotou th{
+	height:40px;
+	border-right:1px solid #000; 
+	padding: 0 0 lem 0;
+	margin-bottom:lem;
+	font-family:"宋体";
+	font-size:18px;
+	background-color:#5CBBFF;
+	color:#000000;
+	font-weight:bold;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	border:none;
+	margin-left:1cm;
+}
+
+#biaoge td{
+	text-align:center;
+	height:40px;
+	padding: 0 0 lem 0;
+	margin-bottom:lem;
+	font-family:"宋体";
+	font-size:14px;
+	font-weight:bold;
+	background-color:white;
+	color:#FF523b;
+	margin:0;
+	padding:0;
+	border:none;
+	margin-left:1cm;
+}
+.picture{
+	height:150px;width:140px;
+}
+a:link {color:#ff523b;}    /* 未被访问的链接 */
+a:visited {color:#ff523b;} /* 已被访问的链接 */
+a:hover {color:#563434;}   /* 鼠标指针移动到链接上 */
+a:active {color:#563434;}  /* 正在被点击的链接 */
